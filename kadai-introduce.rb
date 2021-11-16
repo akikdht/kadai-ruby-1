@@ -1,3 +1,4 @@
-name=['顕博','門畑']
+first_name='顕博'
+last_name='門畑'
 old=39
-puts name[1]+name[0]+"です。"+old.to_s+"歳です。" 
+puts last_name + first_name + "です。" + old.to_s + "歳です。" 
